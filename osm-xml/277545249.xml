@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148026 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="277545249" visible="true" version="1" changeset="21975788" timestamp="2014-04-27T12:06:21Z" user="RockyRoad101" uid="2037901">
+  <nd ref="2820454119"/>
+  <nd ref="2820454120"/>
+  <nd ref="2820454121"/>
+  <nd ref="2820454122"/>
+  <nd ref="2820454123"/>
+  <nd ref="2820454124"/>
+  <nd ref="2820454125"/>
+  <nd ref="2820454126"/>
+  <nd ref="2820454108"/>
+  <nd ref="2820454109"/>
+  <nd ref="2820454112"/>
+  <nd ref="2820454113"/>
+  <nd ref="2820454114"/>
+  <nd ref="2820454115"/>
+  <nd ref="2820454116"/>
+  <nd ref="2820454117"/>
+  <nd ref="2820454118"/>
+  <nd ref="2820454110"/>
+  <nd ref="2820454111"/>
+  <nd ref="2820454119"/>
+  <tag k="building" v="warehouse"/>
+  <tag k="name" v="Salt store"/>
+ </way>
+</osm>

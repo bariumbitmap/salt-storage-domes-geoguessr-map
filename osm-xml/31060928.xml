@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148009 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="31060928" visible="true" version="2" changeset="7357718" timestamp="2011-02-21T20:22:48Z" user="Rowland" uid="74897">
+  <nd ref="345309749"/>
+  <nd ref="1165699567"/>
+  <nd ref="1165699476"/>
+  <nd ref="345309750"/>
+  <nd ref="1165699518"/>
+  <nd ref="1165699522"/>
+  <nd ref="345309751"/>
+  <nd ref="1165699660"/>
+  <nd ref="345309753"/>
+  <nd ref="1165699579"/>
+  <nd ref="1165699485"/>
+  <nd ref="345309755"/>
+  <nd ref="1165699551"/>
+  <nd ref="1165699479"/>
+  <nd ref="345309756"/>
+  <nd ref="1165699590"/>
+  <nd ref="1165699515"/>
+  <nd ref="1165699466"/>
+  <nd ref="345309749"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Salt Depot"/>
+  <tag k="source" v="visual_estimate"/>
+ </way>
+</osm>

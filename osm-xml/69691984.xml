@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148013 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="69691984" visible="true" version="5" changeset="124615033" timestamp="2022-08-07T22:21:11Z" user="user_5589" uid="5589">
+  <nd ref="833496298"/>
+  <nd ref="833496310"/>
+  <nd ref="833496314"/>
+  <nd ref="833496319"/>
+  <nd ref="833496323"/>
+  <nd ref="833496326"/>
+  <nd ref="833496329"/>
+  <nd ref="833496333"/>
+  <nd ref="833496337"/>
+  <nd ref="833496342"/>
+  <nd ref="833496345"/>
+  <nd ref="833496348"/>
+  <nd ref="833496350"/>
+  <nd ref="833496352"/>
+  <nd ref="1741242360"/>
+  <nd ref="833496355"/>
+  <nd ref="1741242355"/>
+  <nd ref="833496357"/>
+  <nd ref="833496359"/>
+  <nd ref="1741242351"/>
+  <nd ref="1741242357"/>
+  <nd ref="833496298"/>
+  <tag k="building" v="roof"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="Salt Dome"/>
+ </way>
+</osm>
