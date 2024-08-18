@@ -1,0 +1,16 @@
+[out:json][timeout:300];
+area["name"="Illinois"]["boundary"="administrative"]->.searchArea;
+
+(
+  // Checking for common tags that might be related to salt storage
+  way["content"="salt"](area.searchArea);
+  way["name"~"salt depot",i](area.searchArea);
+  way["name"~"salt dome",i](area.searchArea);
+  way["name"~"salt store",i](area.searchArea);
+  way["name"~"salt storage",i](area.searchArea);
+);
+
+// Print the result
+out body;
+>;
+out skel qt;

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148000 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="207234408" visible="true" version="2" changeset="35780869" timestamp="2015-12-06T06:48:16Z" user="bdiscoe" uid="402624">
+  <nd ref="2173974458"/>
+  <nd ref="2173974462"/>
+  <nd ref="2173974466"/>
+  <nd ref="2173974470"/>
+  <nd ref="2173974473"/>
+  <nd ref="2173974475"/>
+  <nd ref="2173974478"/>
+  <nd ref="2173974481"/>
+  <nd ref="2173974483"/>
+  <nd ref="2173974485"/>
+  <nd ref="2173974487"/>
+  <nd ref="2173974490"/>
+  <nd ref="2173974496"/>
+  <nd ref="2173974501"/>
+  <nd ref="2173974503"/>
+  <nd ref="2173974498"/>
+  <nd ref="2173974494"/>
+  <nd ref="2173974492"/>
+  <nd ref="2173974489"/>
+  <nd ref="2173974486"/>
+  <nd ref="2173974484"/>
+  <nd ref="2173974482"/>
+  <nd ref="2173974480"/>
+  <nd ref="2173974476"/>
+  <nd ref="2173974474"/>
+  <nd ref="2173974472"/>
+  <nd ref="2173974468"/>
+  <nd ref="2173974464"/>
+  <nd ref="2173974460"/>
+  <nd ref="2173974456"/>
+  <nd ref="2173974453"/>
+  <nd ref="2173974445"/>
+  <nd ref="2173974441"/>
+  <nd ref="2173974437"/>
+  <nd ref="2173974433"/>
+  <nd ref="2173974422"/>
+  <nd ref="2173974419"/>
+  <nd ref="2173974416"/>
+  <nd ref="2173974413"/>
+  <nd ref="2173974411"/>
+  <nd ref="2173974410"/>
+  <nd ref="2173974412"/>
+  <nd ref="2173974414"/>
+  <nd ref="2173974418"/>
+  <nd ref="2173974421"/>
+  <nd ref="2173974423"/>
+  <nd ref="2173974435"/>
+  <nd ref="2173974439"/>
+  <nd ref="2173974443"/>
+  <nd ref="2173974447"/>
+  <nd ref="2173974451"/>
+  <nd ref="2173974455"/>
+  <nd ref="2173974458"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+</osm>

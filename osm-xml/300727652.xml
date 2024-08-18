@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (3713890 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="300727652" visible="true" version="2" changeset="57805508" timestamp="2018-04-04T14:29:22Z" user="Eimer Kopf" uid="1141039">
+  <nd ref="3048357312"/>
+  <nd ref="3048357313"/>
+  <nd ref="3048357314"/>
+  <nd ref="3048357315"/>
+  <nd ref="3048357316"/>
+  <nd ref="3048357317"/>
+  <nd ref="3048357318"/>
+  <nd ref="3048357319"/>
+  <nd ref="3048357301"/>
+  <nd ref="3048357302"/>
+  <nd ref="3048357305"/>
+  <nd ref="3048357306"/>
+  <nd ref="3048357307"/>
+  <nd ref="3048357308"/>
+  <nd ref="3048357309"/>
+  <nd ref="3048357310"/>
+  <nd ref="3048357311"/>
+  <nd ref="3048357303"/>
+  <nd ref="3048357304"/>
+  <nd ref="3048357312"/>
+  <tag k="building" v="industrial"/>
+  <tag k="name" v="salt storage"/>
+ </way>
+</osm>
