@@ -167,7 +167,7 @@
             "lat": 53.39848722360558,
             "lng": -3.0299531841981446,
             "panoId": "bp4fWqyWMVec16FiBShaOg",
-            "pitch": 1.9611573122047758,
+            "pitch": 1.961157312204776,
             "stateCode": null,
             "zoom": 1.7935850688828108
         },
@@ -183,7 +183,7 @@
             "panoId": "gaDylWP4EPQHQ0q60sidYg",
             "pitch": 4.950282329585306,
             "stateCode": null,
-            "zoom": 3.3599853828968826
+            "zoom": 3.359985382896882
         },
         {
             "countryCode": null,
@@ -205,7 +205,7 @@
                 "panoDate": "2023-08",
                 "tags": []
             },
-            "heading": 28.970326011731682,
+            "heading": 28.97032601173168,
             "lat": 39.62047799232414,
             "lng": -119.71987756745338,
             "panoId": "LVroonKQY6ojU0fExp_cRQ",
@@ -223,9 +223,9 @@
             "lat": 54.60425488278294,
             "lng": -5.8972161971685235,
             "panoId": "rhe8UFSr_BFsnPEMLBRqHg",
-            "pitch": 1.8492410626734994,
+            "pitch": 1.8492410626734992,
             "stateCode": null,
-            "zoom": 1.9761111419651853
+            "zoom": 1.9761111419651851
         },
         {
             "countryCode": null,
@@ -265,9 +265,9 @@
             "lat": 42.727910481112666,
             "lng": -81.43514942555288,
             "panoId": "lPam20k7SY-_KDptooclEw",
-            "pitch": 1.9245203768290366,
+            "pitch": 1.9245203768290369,
             "stateCode": null,
-            "zoom": 1.9460472976242298
+            "zoom": 1.9460472976242296
         },
         {
             "countryCode": null,
@@ -276,7 +276,7 @@
                 "tags": []
             },
             "heading": 85.57919538292202,
-            "lat": 43.096344601977876,
+            "lat": 43.09634460197787,
             "lng": -80.75486963083567,
             "panoId": "2p3eTs4l-Gf9B8_ynp-nJQ",
             "pitch": 2.141834316627083,
@@ -295,7 +295,7 @@
             "panoId": "uq-RA8TY29suulgkliekkQ",
             "pitch": 10.603723939692046,
             "stateCode": null,
-            "zoom": 1.8348324065218393
+            "zoom": 1.834832406521839
         },
         {
             "countryCode": null,
@@ -323,7 +323,7 @@
             "panoId": "hIQc_o8LQh53feYYqsn7Cw",
             "pitch": 3.2294581608139765,
             "stateCode": null,
-            "zoom": 2.6257612775720878
+            "zoom": 2.625761277572088
         },
         {
             "countryCode": null,
@@ -433,7 +433,7 @@
             "lat": 41.806658636823514,
             "lng": -88.12295758808277,
             "panoId": "Ks2t001pGWjM6S7IE5VH9A",
-            "pitch": 1.6159675275791585,
+            "pitch": 1.6159675275791583,
             "stateCode": null,
             "zoom": 1.6184302554677843
         },
@@ -450,6 +450,160 @@
             "pitch": -2.71332144457142,
             "stateCode": null,
             "zoom": 2.3191969838246846
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2015-10",
+                "tags": []
+            },
+            "heading": 342.7973136601839,
+            "lat": 43.13999353847931,
+            "lng": -87.99763845839925,
+            "panoId": "6tcSRLgn7hm2yM0DsNLQvw",
+            "pitch": -0.8547699784556784,
+            "stateCode": null,
+            "zoom": 1.3149480605808923
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2024-06",
+                "tags": []
+            },
+            "heading": 95.85938560141152,
+            "lat": 45.15160658006991,
+            "lng": -89.14769666124369,
+            "panoId": "ZY9JSeS_uk_QcPAltU-pbg",
+            "pitch": 0.5906771591705251,
+            "stateCode": null,
+            "zoom": 3.3599853828968826
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2023-07",
+                "tags": []
+            },
+            "heading": 295.1221861704306,
+            "lat": 44.59798543105368,
+            "lng": -79.41288675367967,
+            "panoId": "qFM0Lfo14Pvt1MbOmAqNfw",
+            "pitch": 3.2810157448447086,
+            "stateCode": null,
+            "zoom": 2.4799898484626377
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2023-03",
+                "tags": []
+            },
+            "heading": 141.1982002271709,
+            "lat": 51.422278283930325,
+            "lng": -0.40990109307606387,
+            "panoId": "0pnRw-MidiiCAWjouF_8ug",
+            "pitch": -2.623074934223837,
+            "stateCode": null,
+            "zoom": 1.8422613791873739
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2022-12",
+                "tags": []
+            },
+            "heading": 104.72281628757335,
+            "lat": 42.9933752872348,
+            "lng": -85.67673516686071,
+            "panoId": "nopwCIp1b_0E7RDuTtdbZg",
+            "pitch": -7.295439102570924,
+            "stateCode": null,
+            "zoom": 1.5547304034059923
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2022-07",
+                "tags": []
+            },
+            "heading": 288.07034032353243,
+            "lat": 42.28834191081648,
+            "lng": -83.17078563423584,
+            "panoId": "eJwVWzkr2D5Hepvrq8GWCA",
+            "pitch": -0.64869044863471,
+            "stateCode": null,
+            "zoom": 2.188988841291999
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2023-05",
+                "tags": []
+            },
+            "heading": 19.699184160060824,
+            "lat": 41.08232839693191,
+            "lng": -73.83097603187073,
+            "panoId": "WY737dI7vouOfGa86XOqkw",
+            "pitch": 7.046365731070011,
+            "stateCode": null,
+            "zoom": 2.217566585537792
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2019-10",
+                "tags": []
+            },
+            "heading": 16.1,
+            "lat": 38.952794888981416,
+            "lng": -77.07718301530646,
+            "panoId": "Hak7Rn1VHUkscn1sRSC1VA",
+            "pitch": 7.760000000000005,
+            "stateCode": null,
+            "zoom": 0.43479217910691204
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2023-09",
+                "tags": []
+            },
+            "heading": 52.7,
+            "lat": 39.364856122994865,
+            "lng": -76.72321776810938,
+            "panoId": "aqnXzsQp_fNbMl1ypuHVhQ",
+            "pitch": -4.840000000000003,
+            "stateCode": null,
+            "zoom": 0.43479217910691204
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2023-06",
+                "tags": []
+            },
+            "heading": 155.05598373819208,
+            "lat": 41.60083285630045,
+            "lng": -87.62115691456198,
+            "panoId": "kx7EH1-LDn-BY3IWh9MFag",
+            "pitch": -3.326887862525112,
+            "stateCode": null,
+            "zoom": 2.349683393743892
+        },
+        {
+            "countryCode": null,
+            "extra": {
+                "panoDate": "2019-07",
+                "tags": []
+            },
+            "heading": 295.65475330696796,
+            "lat": 39.101605965095665,
+            "lng": -76.84301539504054,
+            "panoId": "eV5gwabjD3MXGf7C0gUiXQ",
+            "pitch": 5.784234165400022,
+            "stateCode": null,
+            "zoom": 0.43479217910691204
         }
     ],
     "extra": {

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148016 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="659583559" visible="true" version="3" changeset="128854525" timestamp="2022-11-13T16:31:39Z" user="1998alexkane" uid="6107419">
+  <nd ref="6175467739"/>
+  <nd ref="6175467738"/>
+  <nd ref="6175467737"/>
+  <nd ref="6175467736"/>
+  <nd ref="6175467735"/>
+  <nd ref="6175467734"/>
+  <nd ref="6175467733"/>
+  <nd ref="6175467732"/>
+  <nd ref="6175467731"/>
+  <nd ref="6175467730"/>
+  <nd ref="6175467729"/>
+  <nd ref="6175467728"/>
+  <nd ref="6175467727"/>
+  <nd ref="6175467726"/>
+  <nd ref="6175467725"/>
+  <nd ref="6175467724"/>
+  <nd ref="6175467723"/>
+  <nd ref="6175467722"/>
+  <nd ref="6175467721"/>
+  <nd ref="6175467720"/>
+  <nd ref="6175467719"/>
+  <nd ref="6175467718"/>
+  <nd ref="6175467717"/>
+  <nd ref="6175467716"/>
+  <nd ref="6175467715"/>
+  <nd ref="6175467714"/>
+  <nd ref="6175467713"/>
+  <nd ref="6175467739"/>
+  <tag k="building" v="yes"/>
+  <tag k="content" v="salt"/>
+  <tag k="man_made" v="silo"/>
+ </way>
+</osm>
