@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.9.3 (4148011 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="298652690" visible="true" version="1" changeset="24842018" timestamp="2014-08-18T19:45:56Z" user="EP_Import" uid="1254212">
+  <nd ref="3025150691"/>
+  <nd ref="3025150688"/>
+  <nd ref="3025150689"/>
+  <nd ref="3025150692"/>
+  <nd ref="3025150696"/>
+  <nd ref="3025150702"/>
+  <nd ref="3025150706"/>
+  <nd ref="3025150710"/>
+  <nd ref="3025150718"/>
+  <nd ref="3025150727"/>
+  <nd ref="3025150726"/>
+  <nd ref="3025150717"/>
+  <nd ref="3025150709"/>
+  <nd ref="3025150705"/>
+  <nd ref="3025150701"/>
+  <nd ref="3025150695"/>
+  <nd ref="3025150693"/>
+  <nd ref="3025150691"/>
+  <tag k="addr:city" v="Pikesville"/>
+  <tag k="addr:housenumber" v="511"/>
+  <tag k="addr:postcode" v="21208"/>
+  <tag k="addr:state" v="MD"/>
+  <tag k="addr:street" v="Western Maryland Avenue"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
