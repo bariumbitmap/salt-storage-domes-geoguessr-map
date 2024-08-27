@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620070 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="614268214" visible="true" version="2" changeset="118682541" timestamp="2022-03-19T23:59:25Z" user="svance92" uid="401490">
+  <nd ref="9591033688"/>
+  <nd ref="5810736259"/>
+  <nd ref="5810736260"/>
+  <nd ref="5810736261"/>
+  <nd ref="5810736262"/>
+  <nd ref="5810736263"/>
+  <nd ref="9591031095"/>
+  <nd ref="5810736264"/>
+  <nd ref="5810736265"/>
+  <nd ref="9591031203"/>
+  <nd ref="5810736266"/>
+  <nd ref="5810736267"/>
+  <nd ref="5810736268"/>
+  <nd ref="9591036250"/>
+  <nd ref="5810736249"/>
+  <nd ref="5810736250"/>
+  <nd ref="9591029505"/>
+  <nd ref="5810736251"/>
+  <nd ref="5810736252"/>
+  <nd ref="9591034570"/>
+  <nd ref="5810736253"/>
+  <nd ref="5810736254"/>
+  <nd ref="9591032883"/>
+  <nd ref="5810736255"/>
+  <nd ref="5810736256"/>
+  <nd ref="9591035076"/>
+  <nd ref="5810736257"/>
+  <nd ref="5810736258"/>
+  <nd ref="9591033688"/>
+  <tag k="addr:city" v="Indianapolis"/>
+  <tag k="addr:housenumber" v="7160"/>
+  <tag k="addr:postcode" v="46278"/>
+  <tag k="addr:state" v="IN"/>
+  <tag k="addr:street" v="Lafayette Road"/>
+  <tag k="building" v="industrial"/>
+  <tag k="name" v="INDOT Road Salt Storage Dome"/>
+  <tag k="source" v="esri/Indianapolis_IN_Buildings"/>
+ </way>
+</osm>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620066 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="1013935752" visible="true" version="1" changeset="115187625" timestamp="2021-12-21T03:02:20Z" user="Minh Nguyen" uid="33757">
+  <nd ref="9354562997"/>
+  <nd ref="9354562998"/>
+  <nd ref="9354562999"/>
+  <nd ref="9354563000"/>
+  <nd ref="9354563001"/>
+  <nd ref="9354563002"/>
+  <nd ref="9354562984"/>
+  <nd ref="9354562985"/>
+  <nd ref="9354562986"/>
+  <nd ref="9354562987"/>
+  <nd ref="9354562992"/>
+  <nd ref="9354562993"/>
+  <nd ref="9354562994"/>
+  <nd ref="9354562995"/>
+  <nd ref="9354562996"/>
+  <nd ref="9354562988"/>
+  <nd ref="9354562989"/>
+  <nd ref="9354562990"/>
+  <nd ref="9354562991"/>
+  <nd ref="9354562997"/>
+  <tag k="building" v="storage_tank"/>
+  <tag k="content" v="salt"/>
+  <tag k="man_made" v="storage_tank"/>
+  <tag k="roof:shape" v="round"/>
+ </way>
+</osm>

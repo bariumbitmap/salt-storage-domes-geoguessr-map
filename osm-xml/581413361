@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620064 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="581413361" visible="true" version="1" changeset="58218907" timestamp="2018-04-19T00:10:33Z" user="SSR_317" uid="7960635">
+  <nd ref="5563145489"/>
+  <nd ref="5563145490"/>
+  <nd ref="5563145491"/>
+  <nd ref="5563145492"/>
+  <nd ref="5563145493"/>
+  <nd ref="5563145494"/>
+  <nd ref="5563145476"/>
+  <nd ref="5563145480"/>
+  <nd ref="5563145481"/>
+  <nd ref="5563145483"/>
+  <nd ref="5563145484"/>
+  <nd ref="5563145485"/>
+  <nd ref="5563145486"/>
+  <nd ref="5563145487"/>
+  <nd ref="5563145488"/>
+  <nd ref="5563145477"/>
+  <nd ref="5563145482"/>
+  <nd ref="5563145478"/>
+  <nd ref="5563145479"/>
+  <nd ref="5563145489"/>
+  <tag k="building" v="yes"/>
+  <tag k="description" v="Road Salt Storage Dome"/>
+ </way>
+</osm>

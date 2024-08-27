@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620072 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="1290983694" visible="true" version="1" changeset="152502927" timestamp="2024-06-10T15:21:25Z" user="Looney128" uid="8141827">
+  <nd ref="11969370997"/>
+  <nd ref="11969370998"/>
+  <nd ref="11969370999"/>
+  <nd ref="11969371000"/>
+  <nd ref="11969371001"/>
+  <nd ref="11969371002"/>
+  <nd ref="11969371003"/>
+  <nd ref="11969371004"/>
+  <nd ref="11969371005"/>
+  <nd ref="11969371006"/>
+  <nd ref="11969371007"/>
+  <nd ref="11969371008"/>
+  <nd ref="11969371009"/>
+  <nd ref="11969371010"/>
+  <nd ref="11969371011"/>
+  <nd ref="11969371012"/>
+  <nd ref="11969371013"/>
+  <nd ref="11969371014"/>
+  <nd ref="11969371015"/>
+  <nd ref="11969371016"/>
+  <nd ref="11969371017"/>
+  <nd ref="11969371018"/>
+  <nd ref="11969371019"/>
+  <nd ref="11969371020"/>
+  <nd ref="11969371021"/>
+  <nd ref="11969371022"/>
+  <nd ref="11969371023"/>
+  <nd ref="11969371024"/>
+  <nd ref="11969371025"/>
+  <nd ref="11969371026"/>
+  <nd ref="11969371027"/>
+  <nd ref="11969371028"/>
+  <nd ref="11969370997"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
