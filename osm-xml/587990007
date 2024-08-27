@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620062 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="587990007" visible="true" version="1" changeset="58939579" timestamp="2018-05-14T05:35:23Z" user="Noobiemapper" uid="8179776">
+  <nd ref="5616496304"/>
+  <nd ref="5616496302"/>
+  <nd ref="5616496301"/>
+  <nd ref="5616496300"/>
+  <nd ref="5616496299"/>
+  <nd ref="5616496298"/>
+  <nd ref="5616496297"/>
+  <nd ref="5616496296"/>
+  <nd ref="5616496295"/>
+  <nd ref="5616496294"/>
+  <nd ref="5616496293"/>
+  <nd ref="5616496292"/>
+  <nd ref="5616496291"/>
+  <nd ref="5616496303"/>
+  <nd ref="5616496290"/>
+  <nd ref="5616496289"/>
+  <nd ref="5616496288"/>
+  <nd ref="5616496287"/>
+  <nd ref="5616496286"/>
+  <nd ref="5616496285"/>
+  <nd ref="5616496284"/>
+  <nd ref="5616496283"/>
+  <nd ref="5616496282"/>
+  <nd ref="5616496281"/>
+  <nd ref="5616496280"/>
+  <nd ref="5616496279"/>
+  <nd ref="5616496304"/>
+  <tag k="addr:city" v="Fond du Lac"/>
+  <tag k="addr:country" v="US"/>
+  <tag k="addr:postcode" v="54935"/>
+  <tag k="addr:state" v="WI"/>
+  <tag k="building" v="yes"/>
+  <tag k="source" v="bing"/>
+ </way>
+</osm>

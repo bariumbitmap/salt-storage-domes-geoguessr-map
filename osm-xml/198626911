@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (4003516 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="198626911" visible="true" version="1" changeset="14452416" timestamp="2012-12-29T16:03:27Z" user="Nate Wessel" uid="1108251">
+  <nd ref="2087364472"/>
+  <nd ref="2087364461"/>
+  <nd ref="2087364475"/>
+  <nd ref="2087364485"/>
+  <nd ref="2087364489"/>
+  <nd ref="2087364477"/>
+  <nd ref="2087364478"/>
+  <nd ref="2087364482"/>
+  <nd ref="2087364483"/>
+  <nd ref="2087364484"/>
+  <nd ref="2087364502"/>
+  <nd ref="2087364504"/>
+  <nd ref="2087364473"/>
+  <nd ref="2087364507"/>
+  <nd ref="2087364505"/>
+  <nd ref="2087364503"/>
+  <nd ref="2087364465"/>
+  <nd ref="2087364468"/>
+  <nd ref="2087364467"/>
+  <nd ref="2087364472"/>
+  <tag k="building" v="yes"/>
+ </way>
+</osm>
