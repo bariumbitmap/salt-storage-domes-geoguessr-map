@@ -5,6 +5,8 @@ This is a map of salt storage domes, generally used to store road salt for reduc
 
 WHAT BULBOUS BUDDIES! WHAT HEARTY HEMISPHERES! WHAT CURVY COMRADES! WHAT CHONKY CHUMS! WHAT ABSOLUTE UNITS!
 
+https://github.com/bariumbitmap/salt-storage-domes-geoguessr-map
+
 Methods for finding locations
 -----------------------------
 
