@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620074 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="219476963" visible="true" version="2" changeset="20458456" timestamp="2014-02-09T03:30:13Z" user="Stevestr" uid="571489">
+  <nd ref="2286267539"/>
+  <nd ref="2286267479"/>
+  <nd ref="2286267581"/>
+  <nd ref="2286267475"/>
+  <nd ref="2286267474"/>
+  <nd ref="2286267514"/>
+  <nd ref="2286267527"/>
+  <nd ref="2286267486"/>
+  <nd ref="2286267472"/>
+  <nd ref="2286267470"/>
+  <nd ref="2286267471"/>
+  <nd ref="2286267593"/>
+  <nd ref="2286267571"/>
+  <nd ref="2286267494"/>
+  <nd ref="2286267566"/>
+  <nd ref="2286267505"/>
+  <nd ref="2286267506"/>
+  <nd ref="2286267504"/>
+  <nd ref="2286267483"/>
+  <nd ref="2286267555"/>
+  <nd ref="2286267463"/>
+  <nd ref="2286267478"/>
+  <nd ref="2286267493"/>
+  <nd ref="2286267492"/>
+  <nd ref="2286267473"/>
+  <nd ref="2286267539"/>
+  <tag k="building" v="industrial"/>
+  <tag k="man_made" v="tank"/>
+  <tag k="name" v="Salt Dome"/>
+  <tag k="source" v="Bing"/>
+ </way>
+</osm>
