@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.0 (2620047 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="967109002" visible="true" version="1" changeset="108548298" timestamp="2021-07-24T22:34:53Z" user="xem0861" uid="12270940">
+  <nd ref="8947400316"/>
+  <nd ref="8947400315"/>
+  <nd ref="8947400314"/>
+  <nd ref="8947400313"/>
+  <nd ref="8947400312"/>
+  <nd ref="8947400311"/>
+  <nd ref="8947400310"/>
+  <nd ref="8947400309"/>
+  <nd ref="8947400308"/>
+  <nd ref="8947400307"/>
+  <nd ref="8947400306"/>
+  <nd ref="8947400305"/>
+  <nd ref="8947400304"/>
+  <nd ref="8947400303"/>
+  <nd ref="8947400302"/>
+  <nd ref="8947400301"/>
+  <nd ref="8947400300"/>
+  <nd ref="8947400299"/>
+  <nd ref="8947400298"/>
+  <nd ref="8947400297"/>
+  <nd ref="8947400296"/>
+  <nd ref="8947400295"/>
+  <nd ref="8947400294"/>
+  <nd ref="8947400293"/>
+  <nd ref="8947400292"/>
+  <nd ref="8947400316"/>
+  <tag k="building" v="silo"/>
+  <tag k="man_made" v="silo"/>
+  <tag k="name" v="ISTHA Salt Dome - Rochelle"/>
+  <tag k="operator" v="Illinois State Tollway Highway Authority"/>
+ </way>
+</osm>
