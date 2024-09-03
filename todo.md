@@ -1,1 +1,1 @@
-- [ ] Figure out how to get 
+- [ ] Figure out how to get Maine salt storage locations <https://gis.maine.gov/arcgis/rest/services/dep/MaineDEP_EGAD_Site_Types/MapServer/32>
