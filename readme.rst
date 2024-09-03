@@ -7,6 +7,13 @@ WHAT BULBOUS BUDDIES! WHAT HEARTY HEMISPHERES! WHAT CURVY COMRADES! WHAT CHONKY 
 
 https://github.com/bariumbitmap/salt-storage-domes-geoguessr-map
 
+Map links
+---------
+
+https://www.geoguessr.com/maps/66d757676b372351792d8bcb
+
+https://www.geohub.gg/map/66d76bd40f18ddbb03406e7a
+
 Methods for finding locations
 -----------------------------
 
